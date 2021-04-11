@@ -1,0 +1,7 @@
+22:52:48 **** Rebuild of configuration Debug for project Kid Shop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o kid_shop.o "..\\kid_shop.cpp" 
+g++ -o "Kid Shop.exe" kid_shop.o 
+
+22:52:54 Build Finished. 0 errors, 0 warnings. (took 6s.168ms)
+

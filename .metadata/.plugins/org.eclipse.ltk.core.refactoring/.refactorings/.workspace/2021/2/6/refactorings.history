@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Random Exercise&apos; to &apos;Miles to Kilometres (via functions)&apos;" description="Rename resource &apos;Random Exercise&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Random Exercise" name="Miles to Kilometres (via functions)" stamp="1613043525286" updateReferences="true"/>
+</session>
