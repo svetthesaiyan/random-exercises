@@ -31,16 +31,11 @@ int main()
 
 	cout<<"Greetings!"<<endl;
 	cout<<endl;
-	cout<<"How many puzzle sets would you like to buy?"<<endl;
-	cout<<"Enter the amount of puzzle sets you would like to purchase: ";	cin>>puzzle_quantity;
-	cout<<"How many dolls would you like to buy?"<<endl;
-	cout<<"Enter the amount of dolls you would like to purchase: ";	cin>>doll_quantity;
-	cout<<"How many teddy bears would you like to buy?"<<endl;
-	cout<<"Enter the amount of teddy bears you would like to purchase: ";	cin>>teddy_bear_quantity;
-	cout<<"How many minions would you like to buy?"<<endl;
-	cout<<"Enter the amount of minions you would like to purchase: ";	cin>>minion_quantity;
-	cout<<"How many trucks would you like to buy?"<<endl;
-	cout<<"Enter the amount of trucks you would like to purchase: ";	cin>>truck_quantity;
+	cout<<"How many puzzle sets would you like to buy?";	cin>>puzzle_quantity;
+	cout<<"How many dolls would you like to buy?";	cin>>doll_quantity;
+	cout<<"How many teddy bears would you like to buy?";	cin>>teddy_bear_quantity;
+	cout<<"How many minions would you like to buy?";	cin>>minion_quantity;
+	cout<<"How many trucks would you like to buy?";	cin>>truck_quantity;
 	cout<<endl;
 
 	toy_quantity=puzzle_quantity+doll_quantity+teddy_bear_quantity+minion_quantity+truck_quantity;
