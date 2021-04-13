@@ -263,3 +263,43 @@ g++ -o "Kid Shop.exe" kid_shop.o
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o kid_shop.o "..\\kid_shop.cpp" 
 g++ -o "Kid Shop.exe" kid_shop.o 
+22:29:03 **** Rebuild of configuration Debug for project Kid Shop ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o kid_shop.o "..\\kid_shop.cpp" 
+g++ -o "Kid Shop.exe" kid_shop.o 
+22:29:08 **** Rebuild of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+22:29:12 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+Info: Nothing to build for Kid Shop
+22:54:58 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+Info: Nothing to build for Pairs
+Info: Nothing to build for Pairs
+Info: Nothing to build for Pairs
+Info: Nothing to build for Pairs
+23:16:10 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+c:/mingw/bin/../lib/gcc/mingw32/9.2.0/../../../../mingw32/bin/ld.exe: cannot open output file Pairs.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:16:29 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -o Pairs.exe pairs.o 
+23:18:16 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+Info: Nothing to build for Kid Shop
+23:20:12 **** Incremental Build of configuration Debug for project Pairs ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o pairs.o "..\\pairs.cpp" 
+g++ -o Pairs.exe pairs.o 
+Info: Nothing to build for Pairs
